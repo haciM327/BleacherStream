@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/BleacherStream/">
-    <file alias="Main.qml">/home/micah/BleacherStream/Main.qml</file>
-  </qresource>
-</RCC>
-

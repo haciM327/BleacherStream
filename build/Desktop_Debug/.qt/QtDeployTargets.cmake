@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_appBleacherStream_FILE /home/micah/BleacherStream/build/Desktop_Debug/appBleacherStream)
-set(__QT_DEPLOY_TARGET_appBleacherStream_TYPE EXECUTABLE)
