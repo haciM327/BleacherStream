@@ -1,0 +1,8 @@
+#!/bin/sh
+
+/home/micah/Qt/6.11.1/gcc_64/libexec/qt-android-runner.py \
+    --adb "/home/micah/Android/Sdk/platform-tools/adb" \
+    --build-path "/home/micah/BleacherStream/build/Qt_6_11_1_for_Android_arm64_v8a_Debug/android-build-appBleacherStream" \
+    --apk "/home/micah/BleacherStream/build/Qt_6_11_1_for_Android_arm64_v8a_Debug/android-build-appBleacherStream/appBleacherStream.apk" \
+    $@
+

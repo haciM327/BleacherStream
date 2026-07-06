@@ -1,0 +1,14 @@
+-rootPath
+/home/micah/BleacherStream
+-cmake-output
+-output-file
+/home/micah/BleacherStream/build/Desktop_Debug/.qt/qml_imports/appBleacherStream_conf.cmake
+-importPath
+/home/micah/BleacherStream/build/Desktop_Debug
+-importPath
+/home/micah/BleacherStream/build/Desktop_Debug/BleacherStream
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/micah/BleacherStream/build/Desktop_Debug/.qt/rcc/qmake_BleacherStream.qrc
+/home/micah/BleacherStream/build/Desktop_Debug/.qt/rcc/appBleacherStream_raw_qml_0.qrc
