@@ -1,0 +1,223 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a13b22b48395db4b079a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BleacherStream",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-08f9b8172227d2cfc2e4.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-eb1d676cde525dd8bbba.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-f29e1c093f4eefe64392.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-18ac7636711f7dd02636.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-8538d44930d5fe7997bd.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBleacherStream::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBleacherStream-Debug-dfea55eaab9ef5ab2303.json",
+					"name" : "appBleacherStream",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBleacherStream_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBleacherStream_autogen-Debug-defd33ac3f3de03bb58f.json",
+					"name" : "appBleacherStream_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBleacherStream_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBleacherStream_autogen_timestamp_deps-Debug-2460c0880c894fab35b2.json",
+					"name" : "appBleacherStream_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBleacherStream_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBleacherStream_copy_qml-Debug-06ed221018a6a4e6d5cf.json",
+					"name" : "appBleacherStream_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBleacherStream_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBleacherStream_copy_res-Debug-12905bf4b98ce4fd79f4.json",
+					"name" : "appBleacherStream_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBleacherStream_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBleacherStream_qmlimportscan-Debug-7c898b717a3b7789ef4d.json",
+					"name" : "appBleacherStream_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBleacherStream_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBleacherStream_qmllint-Debug-65562c3ca39655f3024b.json",
+					"name" : "appBleacherStream_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBleacherStream_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBleacherStream_qmllint_json-Debug-fb0a0a2190c702f35959.json",
+					"name" : "appBleacherStream_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBleacherStream_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBleacherStream_qmllint_module-Debug-16a7d83efb6b5769c50b.json",
+					"name" : "appBleacherStream_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBleacherStream_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBleacherStream_qmltyperegistration-Debug-d412e1e11784f1c17f25.json",
+					"name" : "appBleacherStream_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "clean_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clean_qml_context_properties-Debug-ad4b140b31d80191b9fc.json",
+					"name" : "clean_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dump_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dump_qml_context_properties-Debug-a61a9d7481d2cc35063e.json",
+					"name" : "dump_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-b0045dfd8a017b116306.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appBleacherStream_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appBleacherStream_aotstats_target-Debug-48b76410d240f9c6e124.json",
+					"name" : "module_appBleacherStream_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/micah/BleacherStream/build/Desktop_Qt_6_11_1_Debug",
+		"source" : "/home/micah/BleacherStream"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "org.qtproject.example.appBleacherStream-debug-11:/xml_qtprovider_paths.xml.flat",
+        "source": "org.qtproject.example.appBleacherStream-android-build-appBleacherStream-12:/xml/qtprovider_paths.xml"
+    }
+]
