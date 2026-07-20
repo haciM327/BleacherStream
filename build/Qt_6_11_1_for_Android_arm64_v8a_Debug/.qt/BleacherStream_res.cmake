@@ -1,7 +1,0 @@
-
-set(target "BleacherStream")
-set(working_dir "/home/micah/BleacherStream")
-set(src_and_dest_list
-
-)
-set(timestamp_file "/home/micah/BleacherStream/build/Qt_6_11_1_for_Android_arm64_v8a_Debug/.qt/BleacherStream_res.txt")

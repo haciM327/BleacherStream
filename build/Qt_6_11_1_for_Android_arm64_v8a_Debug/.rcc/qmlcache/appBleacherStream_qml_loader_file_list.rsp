@@ -1,8 +1,0 @@
---resource
-/home/micah/BleacherStream/build/Qt_6_11_1_for_Android_arm64_v8a_Debug/.qt/rcc/qmake_BleacherStream.qrc
---resource
-/home/micah/BleacherStream/build/Qt_6_11_1_for_Android_arm64_v8a_Debug/.qt/rcc/appBleacherStream_raw_qml_0.qrc
-/qt/qml/BleacherStream/Main.qml
-/qt/qml/BleacherStream/title.qml
-/qt/qml/BleacherStream/host.qml
-/qt/qml/BleacherStream/guest.qml
