@@ -1,5 +1,0 @@
-module BleacherStream
-typeinfo appBleacherStream.qmltypes
-prefer :/qt/qml/BleacherStream/
-depends QtQuick
-
