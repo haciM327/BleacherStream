@@ -1,0 +1,14 @@
+-rootPath
+/home/micah/BleacherStream
+-cmake-output
+-output-file
+/home/micah/BleacherStream/build/Qt_6_11_1_for_Android_arm64_v8a_Debug/.qt/qml_imports/BleacherStream_conf.cmake
+-importPath
+/home/micah/BleacherStream/build/Qt_6_11_1_for_Android_arm64_v8a_Debug
+-importPath
+/home/micah/BleacherStream/build/Qt_6_11_1_for_Android_arm64_v8a_Debug/BleacherStream
+-importPath
+/home/micah/Qt/6.11.1/android_arm64_v8a/qml
+-qrcFiles
+/home/micah/BleacherStream/build/Qt_6_11_1_for_Android_arm64_v8a_Debug/.qt/rcc/qmake_BleacherStream.qrc
+/home/micah/BleacherStream/build/Qt_6_11_1_for_Android_arm64_v8a_Debug/.qt/rcc/BleacherStream_raw_qml_0.qrc

@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/BleacherStream/">
+    <file alias="Main.qml">/home/micah/BleacherStream/Main.qml</file>
+    <file alias="title.qml">/home/micah/BleacherStream/title.qml</file>
+    <file alias="host.qml">/home/micah/BleacherStream/host.qml</file>
+    <file alias="guest.qml">/home/micah/BleacherStream/guest.qml</file>
+  </qresource>
+</RCC>
+
