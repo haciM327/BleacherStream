@@ -36,10 +36,10 @@ set_target_properties(appBleacherStream PROPERTIES
 qt_add_qml_module(appBleacherStream
     URI BleacherStream
     QML_FILES
-        Main.qml
-        QML_FILES title.qml
-        QML_FILES host.qml
-        QML_FILES guest.qml
+    main.qml
+    QML_FILES title.qml
+    QML_FILES host.qml
+    QML_FILES guest.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

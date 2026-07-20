@@ -11,8 +11,8 @@
 #include "client.hpp"
 
 Client::Client() {
-    serverUrl = "http://192.168.76.219:3000/api/create-game";
-    wsUrl = "ws://192.168.76.219:3000";
+    serverUrl = "http://localhost:3000/api/create-game";
+    wsUrl = "ws://localhost:3000";
     host = false;
     strikes = 0;
 }
